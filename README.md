@@ -18,9 +18,10 @@ I analyzed the patients, doctors and hospitals separately, I used the filters to
 
 ### Visualizations used:
 I used Bar charts, Waterfall Chart, Pie chart, Line chart, Tables and KPI cards for simplicity and easy understanding. I also used slicers for easy interaction and dynamism.
-<a href="https://github.com/fabbiiee/Healthcare-Management-Insights-PowerBI-SQL-Project-/blob/main/Screenshot%202025-04-14%20171943.png">View Page 1 of Dashboard</a>
-<a href="https://github.com/fabbiiee/Healthcare-Management-Insights-PowerBI-SQL-Project-/blob/main/Screenshot%202025-04-14%20172021.png">View Page 2 of Dashboard</a>
+<a href="https://github.com/fabbiiee/Healthcare-Management-Insights-PowerBI-SQL-Project-/blob/main/Screenshot%202025-04-14%20171943.png">View Page 1 of Dashboard</a>,
+<a href="https://github.com/fabbiiee/Healthcare-Management-Insights-PowerBI-SQL-Project-/blob/main/Screenshot%202025-04-14%20172021.png">View Page 2 of Dashboard</a>,
 <a href="https://github.com/fabbiiee/Healthcare-Management-Insights-PowerBI-SQL-Project-/blob/main/Screenshot%202025-04-14%20172053.png">View Page 3 of Dashboard</a>
+
 
 
 ### Challenges and learnings:
