@@ -27,7 +27,10 @@ I used Bar charts, Waterfall Chart, Pie chart, Line chart, Tables and KPI cards 
 ### Challenges and learnings:
 I faced some challenges while cleaning the data with SQL while standardizing the data, I figured out how to fix the issue using SQL but I used power query instead to save time. It becomes clearer day by day how important it is to prioritize time saving techniques in one’s daily activities taking efficiency and accuracy into consideration.
 
-# Conclusion: 
+### Conclusion: 
 This project aimed to create a tool to provide insights and identify key trends in the healthcare performance of a certain area and it was achieved.
 I recommend you to continue tracking the KPIs(key performance indicators) using the dynamic dashboard I created and update the dataset regularly to monitor changes.
+
+### Dashboard:
+![Page 1]("C:\Users\HP Pavilion 15\Pictures\Screenshots\Screenshot 2025-04-14 171943.png")
 
