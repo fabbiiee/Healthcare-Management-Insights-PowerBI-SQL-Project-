@@ -32,5 +32,6 @@ This project aimed to create a tool to provide insights and identify key trends 
 I recommend you to continue tracking the KPIs(key performance indicators) using the dynamic dashboard I created and update the dataset regularly to monitor changes.
 
 ### Dashboard:
-![Page 1]("https://github.com/fabbiiee/Healthcare-Management-Insights-PowerBI-SQL-Project-/blob/main/Screenshot%202025-04-14%20171943.png")
+![Page 1]("![Screenshot 2025-04-14 171943](https://github.com/user-attachments/assets/315562dc-00f6-44b7-96b2-b22f3750c930)
+")
 
