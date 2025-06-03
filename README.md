@@ -23,6 +23,10 @@ I used Bar charts, Waterfall Chart, Pie chart, Line chart, Tables and KPI cards 
 <a href="https://github.com/fabbiiee/Healthcare-Management-Insights-PowerBI-SQL-Project-/blob/main/Screenshot%202025-04-14%20172053.png">View Page 3 of Dashboard</a>
 
 
+### Dashboard:
+![Screenshot 2025-04-14 171943](https://github.com/user-attachments/assets/315562dc-00f6-44b7-96b2-b22f3750c930)
+![Screenshot 2025-04-14 172021](https://github.com/user-attachments/assets/2e2cfe74-99ff-49eb-9260-6f47aa4bc8fd)
+![Screenshot 2025-04-14 172053](https://github.com/user-attachments/assets/3061d826-2250-4229-a8e8-2a0152376112)
 
 ### Challenges and learnings:
 I faced some challenges while cleaning the data with SQL while standardizing the data, I figured out how to fix the issue using SQL but I used power query instead to save time. It becomes clearer day by day how important it is to prioritize time saving techniques in one’s daily activities taking efficiency and accuracy into consideration.
@@ -30,11 +34,5 @@ I faced some challenges while cleaning the data with SQL while standardizing the
 ### Conclusion: 
 This project aimed to create a tool to provide insights and identify key trends in the healthcare performance of a certain area and it was achieved.
 I recommend you to continue tracking the KPIs(key performance indicators) using the dynamic dashboard I created and update the dataset regularly to monitor changes.
-
-### Dashboard:
-![Screenshot 2025-04-14 171943](https://github.com/user-attachments/assets/315562dc-00f6-44b7-96b2-b22f3750c930)
-![Screenshot 2025-04-14 172021](https://github.com/user-attachments/assets/2e2cfe74-99ff-49eb-9260-6f47aa4bc8fd)
-![Screenshot 2025-04-14 172053](https://github.com/user-attachments/assets/3061d826-2250-4229-a8e8-2a0152376112)
-
 
 
